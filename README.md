@@ -2,7 +2,7 @@
 
 Olá a todos 👋!  Venho compartilhar esse aprendizado com um Timer estilo pomodoro, onde é possível visualizar o histórico de timers e o status dele, esse projeto faz parte do Ignite na Rocketseat!
 
-Aqui forneço a configuração mínima para fazer o React funcionar no Vite com algumas regras ESLint.
+Aqui forneço a configuração mínima para fazer o React funcionar no Vite.
 
 Cuide para instalar corretamente todos os plugins para a aplicação funcionar corretamente! 😉
 
