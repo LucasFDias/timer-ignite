@@ -26,7 +26,7 @@ Obs: Confira se todos os plugins foram instalados, caso não, instale-os manualm
 - phosphor-react
 - hookform-resolvers
 
-## Tipos de Status
+## Tipos de Status do Timer
 
 - 🟢 Concluído 
 - 🔴 Interrompido 
