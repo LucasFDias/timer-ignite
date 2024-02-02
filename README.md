@@ -1,30 +1,45 @@
-# React + TypeScript + Vite
+# Timer com Histórico
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Olá a todos 👋! Venho compartilhar esse aprendizado com um timer na rocketseat!
 
-Currently, two official plugins are available:
+Aqui forneço a configuração mínima para fazer o React funcionar no Vite com algumas regras ESLint.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Cuide para instalar corretamente todos os plugins para a aplicação funcionar corretamente! 😉
 
-## Expanding the ESLint configuration
+### Para instalar
+- Digite:
+  npm install ou npm i
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+- Em seguida: 
+  npm run dev
 
-- Configure the top-level `parserOptions` property like this:
+Obs: Confira se todos os plugins foram instalados, caso não, instale-os manualmente pelo nome no package.json.
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+## Linguagens e bibliotecas Utilizadas 💻
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- Immer
+- Typescript
+- hook-form
+- date-fns
+- styled-components
+- zod
+- phosphor-react
+- hookform-resolvers
+
+
+## Foto da aplicação
+
+
+### - Iniciando o Timer
+
+<img src="https://github.com/LucasFDias/timer-ignite/assets/39751095/d8d016b2-3ebe-4eff-b07a-2ba70f86d20b" width="820" height="420" />
+
+
+### - Interrompendo o Timer
+
+<img src="https://github.com/LucasFDias/timer-ignite/assets/39751095/686bbcea-5583-48ef-bae7-4d7cd5b1788c" width="820" height="420" />
+
+
+### - Histórico do Timer
+
+<img src="https://github.com/LucasFDias/timer-ignite/assets/39751095/e52aeb9c-f039-4ac4-aa62-1c61d5f94e27" width="820" height="420" />
