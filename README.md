@@ -1,6 +1,6 @@
 # Timer com Histórico e Status
 
-Olá a todos 👋! Venho compartilhar esse aprendizado com um timer na rocketseat!
+Olá a todos 👋!  Venho compartilhar esse aprendizado com um Timer estilo pomodoro, onde é possível visualizar o histórico de timers e o status dele, esse projeto faz parte do Ignite na Rocketseat!
 
 Aqui forneço a configuração mínima para fazer o React funcionar no Vite com algumas regras ESLint.
 
@@ -26,6 +26,11 @@ Obs: Confira se todos os plugins foram instalados, caso não, instale-os manualm
 - phosphor-react
 - hookform-resolvers
 
+## Tipos de Status
+
+- Concluído 🟢
+- Interrompido 🔴
+- Em andamento 🟠
 
 ## Foto da aplicação
 
