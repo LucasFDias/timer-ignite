@@ -28,9 +28,9 @@ Obs: Confira se todos os plugins foram instalados, caso não, instale-os manualm
 
 ## Tipos de Status
 
-- Concluído 🟢
-- Interrompido 🔴
-- Em andamento 🟠
+- 🟢 Concluído 
+- 🔴 Interrompido 
+- 🟡 Em andamento 
 
 ## Foto da aplicação
 
