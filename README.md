@@ -1,4 +1,4 @@
-# Timer com Histórico
+# Timer com Histórico e Status
 
 Olá a todos 👋! Venho compartilhar esse aprendizado com um timer na rocketseat!
 
